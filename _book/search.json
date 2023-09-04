@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LearnieCP Book",
+    "section": "",
+    "text": "Preface\nThis is a book on a Constraint Satisfaction and Optimization Solver heavily inspired by MiniCP. The solver is called LearnieCP and it is implemented using the Julia language. The goal of this book is to provide an explanation of how to implement a simple solver for constraint satisfaction and constraint optimization problems. The tool and methods employed here are not necessarily state of the art. Their presentation is done in a way to aid in pedagogy.\nThe problems presented in this book are discrete and deterministic in nature. Occasionally, we shall present a comparison with other implementations based on the JuMP modeling language and optimizers like HiGHS among others. Such cases will be clearly highlighted. Furthermore, some models presented in LearnieCP will be compared to their representation in Linear Programming; the goal here being to present the reader with a broad perspective into how different modeling apporaches, as well as optimizations can be done."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

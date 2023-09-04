@@ -1,0 +1,8 @@
+# Preface {.unnumbered}
+
+This is a book on a Constraint Satisfaction and Optimization Solver heavily inspired by [MiniCP](http://minicp.org/). The solver is called __LearnieCP__ and it is implemented using the [Julia language](https://julialang.org/). The goal of this book is to provide an explanation of how to implement a simple _solver_ for [constraint satisfaction](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem#:~:text=Constraint%20satisfaction%20problems%20(CSPs)%20are,number%20of%20constraints%20or%20limitations.) and [constraint optimization](https://en.wikipedia.org/wiki/Constrained_optimization) problems. The tool and methods employed here are not necessarily state of the art. Their presentation is done in a way to aid in _pedagogy_. 
+
+The problems presented in this book are _discrete_ and _deterministic_ in nature. Occasionally, we shall present a comparison with other implementations based on the [JuMP](https://jump.dev/JuMP.jl/stable/) modeling language and optimizers like [HiGHS](https://highs.dev/) among others. Such cases will be clearly highlighted. Furthermore, some _models_ presented in __LearnieCP__ will be compared to their representation in _Linear Programming_; the goal here being to present the reader with a broad perspective into how different modeling apporaches, as well as optimizations can be done.
+
+
+
